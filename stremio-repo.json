@@ -7,7 +7,7 @@
             "synopsis": "Cliente minimo de addons de Stremio para Movian.",
             "description": "Lee catalogos, detalles y streams de addons de Stremio (manifest.json) y los reproduce en Movian.",
             "author": "personal",
-            "version": "0.1.0",
+            "version": "0.2.0",
             "file": "main.js",
             "m7Version": "7.0.0",
             "type": "ecmascript",
