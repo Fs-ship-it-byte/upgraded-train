@@ -1,0 +1,68 @@
+{
+    "version": 1,
+    "plugins": [
+        {
+            "id": "stremio",
+            "title": "Stremio Addons",
+            "synopsis": "Cliente minimo de addons de Stremio para Movian.",
+            "description": "Lee catalogos, detalles y streams de addons de Stremio (manifest.json) y los reproduce en Movian.",
+            "author": "personal",
+            "version": "0.1.0",
+            "file": "main.js",
+            "m7Version": "7.0.0",
+            "type": "ecmascript",
+            "icon": "PON_AQUI_LA_URL_DIRECTA_DE_logo.png",
+            "category": "tv",
+            "downloadURL": "PON_AQUI_LA_URL_DIRECTA_DE_stremio-movian.zip",
+            "popularity": 1
+        },
+        {
+            "id": "bflix",
+            "description": "Reproductor de contenido multimedia en línea perteneciente al Bflix Team",
+            "author": "Isaxd183",
+            "homepage": "https://bit.ly/BFLIX20",
+            "title": "Bflix®Tv",
+            "synopsis": "Reproductor de contenido multimedia en línea perteneciente a Isaxd183.",
+            "version": "1.11.9",
+            "file": "bflix.js",
+            "m7Version": "7.0.0",
+            "type": "ecmascript",
+            "icon": "https://dl.dropbox.com/scl/fi/mr23ml7ahtij32fh2pm58/logo.png?rlkey=lseopyjsfv9u2mxmimlzbm806&st=cfp61i2a&dl=0",
+            "category": "tv",
+            "downloadURL": "https://dl.dropbox.com/scl/fi/6kclo7c4cn93rs34h1c3w/bflix.zip?rlkey=yby24b1vmu08z3jmk4louhnnn&st=sqxfzr46&dl=0",
+            "popularity": 1
+        },
+        {
+            "id": "subtitlespro",
+            "description": "Busca subtitulos automaticamente al reproducir cualquier pelicula o serie.",
+            "author": "Isaxd183",
+            "homepage": "https://t.me/Isaxd183",
+            "title": "Subtitles Pro",
+            "synopsis": "Subtitulos automaticos en diferentes fuentes de internet",
+            "version": "1.3",
+            "file": "subtitles.js",
+            "showtimeVersion": "5.0.401",
+            "type": "ecmascript",
+            "icon": "https://dl.dropbox.com/scl/fi/pz3iv8hbxhzyflif6cvq2/package_subtitles_pro.png?rlkey=albqe3i34j96hrmtx1hz1au1f&dl=0",
+            "category": "subtitles",
+            "apiversion": 2,
+            "downloadURL": "https://dl.dropbox.com/scl/fi/dtwfw3m92t0czn26x6ex5/subtitles_pro.zip?rlkey=wawntojzmha26cemso74ihzzr&st=4bu1o7h9&dl=0",
+            "popularity": 1
+        },
+        {
+            "id": "xstreamtv",
+            "title": "XstreamTV",
+            "synopsis": "Reproductor de listas M3U, XML y JSON para Movian.",
+            "description": "Reproduce listas M3U, XML y JSON. Soporta video, audio, torrents y AceStream.",
+            "author": "Isaxd183",
+            "version": "1.0",
+            "file": "xstreamtv.js",
+            "m7Version": "7.0.0",
+            "type": "ecmascript",
+            "icon": "https://dl.dropbox.com/scl/fi/360c276q6857hemwmbgyv/logo-xstreamtv.png?rlkey=9meshsqbjcqvmjkzh3yy0ddx2&st=djafqmvt&dl=0",
+            "category": "tv",
+            "downloadURL": "https://dl.dropbox.com/scl/fi/ld3zq9z4ye0td2j0wlbrd/xstreamtv.zip?rlkey=9w96myb28visao0kbb70fph91&st=1jttb7qj&dl=0",
+            "popularity": 1
+        }
+    ]
+}
