@@ -11,9 +11,9 @@
             "file": "main.js",
             "m7Version": "7.0.0",
             "type": "ecmascript",
-            "icon": "PON_AQUI_LA_URL_DIRECTA_DE_logo.png",
+            "icon": "https://raw.githubusercontent.com/Fs-ship-it-byte/upgraded-train/main/logo.png",
             "category": "tv",
-            "downloadURL": "PON_AQUI_LA_URL_DIRECTA_DE_stremio-movian.zip",
+            "downloadURL": "https://raw.githubusercontent.com/Fs-ship-it-byte/upgraded-train/main/stremio-movian.zip",
             "popularity": 1
         },
         {
